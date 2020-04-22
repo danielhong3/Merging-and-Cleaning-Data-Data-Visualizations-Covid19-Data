@@ -6,7 +6,7 @@ Using python, we parsed edited and merged all of these data sources and cleaned 
 # Data Visualization 
 ![Alt Text](https://github.com/danielhong3/Merging-and-Cleaning-Data-Data-Visualizations-Covid19-Data/blob/master/NumberOfElderly.png)
 This graph details the counties with the highest number of elderly. It is important to take note of this since people over the age of 60 are at the highest risk of mortality if they contract Covid19. While this graph does not take into account total population, because it is the raw number of elderly, it provides information on how many hospital beds or respirators may be needed for potentially serious cases.</br>
-![Alt Text](https://github.com/danielhong3/Merging-and-Cleaning-Data-Data-Visualizations-Covid19Data/blob/master/PerfPopUnder18Over60.png)
+![Alt Text](https://github.com/danielhong3/Merging-and-Cleaning-Data-Data-Visualizations-Covid19-Data/blob/master/newplot%20(1).png)
 Next, we have a graph detailing the percentage of elderly (over 60) and young people (below 18) within each fo these counties. The size of the bubble is scaled to the number of hospital beds in these areas. There are few areas with both a large number of young and old people. </br>
 ![Alt Text](https://github.com/danielhong3/Merging-and-Cleaning-Data-Data-Visualizations-Covid19-Data/blob/master/newplot%20(1).png)
 This next plot is the same graph, but with hospital beds scaled to beds per 1000 people. Since both these populations are at-risk, this is a rough metric of how prepared these areas are.
